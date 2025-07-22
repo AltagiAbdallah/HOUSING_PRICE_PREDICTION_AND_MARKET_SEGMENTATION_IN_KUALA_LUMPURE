@@ -153,4 +153,4 @@ This project is designed to be run in **Google Colab**, making it easy to set up
 
 ## License
 
-This project is open-source and available under the MIT License. See the `LICENSE` file for more details. *(Consider creating a separate `LICENSE` file in your GitHub repository)*.
+This project is open-source and available under the MIT License. See the `LICENSE` file for more details.
