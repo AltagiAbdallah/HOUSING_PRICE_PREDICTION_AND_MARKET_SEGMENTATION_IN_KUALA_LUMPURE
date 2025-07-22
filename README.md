@@ -52,7 +52,7 @@ This project is designed to be run in **Google Colab**, making it easy to set up
 ### Prerequisites
 
 * A Google account to access Google Colab.
-* My `housing_data.csv` dataset. I recommend uploading this file directly to your Colab session or connecting your Google Drive.
+* My `data_kaggle.csv` dataset. I recommend uploading this file directly to your Colab session or connecting your Google Drive.
 
 ### Steps to Run
 
